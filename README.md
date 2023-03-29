@@ -1,4 +1,5 @@
 # kafka
+```
 # While the Docker images themselves are supported for production usage,
 # this docker-compose.yaml is designed to be used by developers to run
 # an environment locally. It is not designed to be used in production.
@@ -295,3 +296,4 @@ volumes:
 
 networks:
   camunda-platform:
+```
