@@ -1,0 +1,4 @@
+subject, path, id
+test-jd-automatic-value, schemas/json/location-latlong.json, 9
+addi-mono-log-value, schemas/json/location-latlong.json, 9
+addi-mono-log-user-value, schemas/json/user.json, 14
